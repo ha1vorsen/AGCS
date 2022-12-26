@@ -1,0 +1,130 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+#0099
+<KEY<MNA<CMU0008
+<ANP0200:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0200:0000:0000
+<MYD0000<DNP0301<SMC<END
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000<TRA0039:0090:0197:0014
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0005:0013
+
+
+
+
+#0200
+<KEY<FLJ0744:0201<MS3
+The power supply seems broken.<NOD<CLR
+An engineer of some ability
+might be able to repair it,
+perhaps...<NOD<END
+#0201
+<KEY<MSG
+Do you want to go to Arthur's
+house?<YNJ0000<CLO
+<CNP0300:0111:0002<HMC<WAI0060<ANP0200:0001:0000
+<WAI0100<FAO0004<TRA0001:0099:0008:0008
+#0300
+#0301
+#0500
+<KEY<MYD0002<CMU0000<FAI0002<FLA<SOU0029<WAI0050
+<MSG
+?<NOD<CLO<ANP0500:0010:0000<WAI0130<SOU0023<WAI0020<CMU0008
+<FL-0523<FL+0740<DNP0500<END
+#0501
+<KEY<ITJ0030:0503<FLJ0741:0502<FLJ0745:0520
+<MSG
+Oohhh...<NOD<CLR<FAC0117
+Oh!<FAC0017<NOD<FAC0117
+What are you doing here?!<FAC0017<NOD<CLR<FAC0117
+.....<FAC0017<NOD<CLR<FAC0117
+Really, so Misery sent
+you here too...<FAC0017<NOD<CLR<FAC0117
+*chuckle*...<FAC0017<NOD<CLR<FAC0117
+Maybe there's a silver
+lining after all...<FAC0017<NOD<CLR<FAC0117
+You see,<FAC0017<NOD<FAC0117
+this island floats in the
+sky by the power of a
+certain organism,<FAC0017<NOD<FAC0117
+and I've recently
+discovered its location.<FAC0017<NOD<CLR<FAC0117
+This labyrinth...
+The organism lives
+somewhere within this
+very labyrinth.<FAC0017<NOD<CLR<FAC0117
+If one could destroy it,
+the island would cease
+to function.<FAC0017<NOD<CLR<FAC0117
+*chuckle*<FAC0017<NOD<CLR<FAC0117
+The doctor must really
+be in a rush,<FAC0017<NOD<FAC0117
+to send you into the
+very heart of this
+island.<FAC0017<NOD<CLR
+....<NOD<FAC0117
+Take this with you.<FAC0017<NOD<CLO<WAI0040<MSG<FAC0117<GIT1018
+This is the Booster v0.8.<FAC0017<NOD<FAC0117
+This little machine will
+help you fly.<FAC0017<NOD<CLR<FAC0117
+It's the only one of its kind.<FAC0017<NOD<FAC0117 
+Please take it.<FAC0017<YNJ0510<CLR<EVE0505
+#0502
+<KEY<MSG
+I pray for your...<NOD<END
+#0503
+<KEY<MSG
+Ooh...<NOD<END
+
+#0505
+<FAC0000<IT+0018<GIT1018
+Got the =Booster v0.8=.<NOD<CLR<FAC0117
+If you press the Jump
+Button in midair, you
+can hover.<FAC0017<NOD<CLR<FAC0117
+Use it on the Item
+Screen to equip it.<FAC0017<NOD<GIT0000<CLR<FAC0117
+Phew..<FAC0017<NOD<CLR<FAC0117
+The minute I was sent
+flying, I thought it
+was all over.<FAC0017<NOD<FAC0117
+And yet it enabled me
+to meet you once again...<FAC0017<NOD<FAC0117
+It looks like my luck
+has run out here.<FAC0017<NOD<CLR<FAC0117
+I pray... for your
+victory...<FAC0217<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
+
+#0510
+<CLR<GIT0000<FAC0117
+What?<FAC0017<NOD<FAC0117 You don't want it?<FAC0017<NOD<CLR<FAC0117
+Well, I suppose it is incomplete, 
+but...<FAC0017<NOD<FAC0117
+If you change your mind, 
+come back and see me.<FAC0017<NOD<CLR<FAC0117
+It's not like I'm going 
+anywhere...<FAC0017<NOD<FAC0000<CLO<FL+0745<END
+
+#0520
+<MSG<FAC0117
+Oh!<FAC0017<NOD<FAC0117 You're back.<FAC0017<NOD<CLR<FAC0117
+Do you want the Booster now?<FAC0017<YNJ0521<CLR<EVE0505
+
+#0521
+<CLR<GIT0000<FAC0117
+No?<FAC0017<NOD<FAC0117 Well now...<FAC0017<NOD<CLR<FAC0117
+If you change your mind, 
+come back and see me.<FAC0017<NOD<CLR<FAC0117
+It's not like I'm going 
+anywhere...<FAC0017<NOD<FAC0000<CLO<END

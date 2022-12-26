@@ -1,0 +1,315 @@
+ 
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+#0100
+<PRI<FLJ0324:0102
+<ITJ0001:0101
+<MSG
+Locked.<NOD<END
+#0101
+<SOU0022<GIT1001<FL+0324<FL+0441
+<MSG
+Used =Arthur's Key=.<NOD<GIT0000<CLO<EVE0102
+#0102
+<SOU0011<CNP0100:0000:0000<FAO0004<TRA0001:0094:0020:0008
+#0103
+<PRI<FAO0000<TRA0015:0090:0036:0014
+#0104
+<FLJ0327:0112
+<FLJ0360:0111
+<KEY<MSG<FAC0109
+I'm Jack, I'm the
+the number-two around here.<FAC0009<NOD<CLR<FAC0109
+This door leads to the
+Mimiga graveyard, where the
+hero Arthur lies.<FAC0009<NOD<CLR<FAC0109
+What am I doing here?<FAC0009<NOD<CLR<FAC0109
+Well, mushrooms have
+been springing up in the
+graveyard,<FAC0009<NOD<FAC0109
+so I'm guarding the door
+to make sure they don't
+get out.<FAC0009<NOD<END
+#0105
+<KEY<FLJ0360:0106<SOU0011<ANP0105:0000:0002<EVE0106
+#0106
+<KEY<FAO0004<TRA0014:0094:0008:0009
+#0107
+<PRI<SOU0011<CNP0107:0000:0000<FAO0004<TRA0019:0094:0010:0010
+#0108
+<PRI<FAO0002<TRA0017:0092:0002:0011
+#0109
+<PRI<FAO0004<TRA0020:0094:0013:0009
+#0110
+<PRI<FAO0000<TRA0012:0090:0055:0009
+#0111
+<KEY<FL+0327<FL+0443<MSG<FAC0109
+What?!<FAC0009<NOD<FAC0109
+Toroko's been kidnapped?!<FAC0009<NOD<FAC0109
+Oh, no!<FAC0009<NOD<FAC0109
+I've got to tell King
+right away!<FAC0009<NOD<CLO
+<MYD0000
+<ANP0111:0008:0000<WAI0208
+<ANP0111:0000:0002<WAI0010
+<SOU0011<ANP0107:0000:0002<WAI0030
+<DNP0111
+<SOU0011<ANP0107:0000:0000<END
+#0112
+<PRI<FAO0002<TRA0016:0092:0002:0012
+#0200
+<PRI<FLJ0322:0201<FL+0322<SOU0022<CNP0200:0021:0000
+<MSG
+Opened the chest.<NOD<GIT1002<IT+0002<EQ+0002<CLR
+<CMU0010Obtained the =Map System=!<WAI0160<NOD<RMU<EVE0201
+#0201
+<PRI<MSG
+Something's written here...<NOD<CLR
+So long as you retain your spirit
+of exploration, surely you shall
+find your way out. This, I believe..<NOD<END
+#0300
+#0301
+<KEY<FLJ0323:0305<FL+0320<FL+0323
+<MSG
+.....<NOD<CLO
+<MYB0000<WAI0050<MYD0000<CNP0301:0061:0002<WAI0008<CNP0301:0061:0004
+<MSG<FAC1107
+What?<FAC1007<NOD<FAC1107
+You're not an enemy?
+I thought for sure it
+was them...<FAC1007<NOD<CLR<FAC1107
+I'm King.<FAC1007<NOD<FAC1107
+I'm the number one in
+this village.<FAC1007<NOD<FAC1107
+Not that that means
+a whole lot, with only
+six of us left.<FAC1007<NOD<FAC1107
+Well, really...<FAC1007<NOD<CLR<FAC1107
+Well, seven counting Sue.<FAC1007<NOD<CLR<FAC1107
+She's not one of us,
+though.<FAC1007<NOD<FAC1107
+She's just an outsider
+who showed up recently.<FAC1007<NOD<ANP0301:0000:0000<END
+#0302
+<KEY<FL+0320<FL+0321<FON0302:0016<MNA<FAI0004<CMU0000<WAI0100
+<MSG<FAC1107
+Hand over the key!<FAC1007<NOD<CLR<FAC0108
+No! I won't!<FAC0008<NOD<CLR<FAC1107
+Are you trying to
+protect Sue?<FAC1007<NOD<FAC1107
+She's a stranger!
+She's not one of us!<FAC1007<NOD<CLR<FAC0106
+Sue's a good person.<FAC0006<NOD<FAC0106
+I'd never betray her!<FAC0006<NOD<CLR<FAC1107
+Toroko...<FAC1007<NOD<FAC1107
+When the Doctor comes,
+you know he'll take
+someone away again...<FAC1007<NOD<FAC1107
+If we don't turn Sue
+over, it might be you
+he takes instead.<FAC1007<NOD<CLR<FAC0106
+Bu, but...<FAC0006<NOD<CLR<FAC1107
+The key, Toroko!<FAC1007<NOD
+<FAC0000<CLO
+<MOV0013:0022
+<WAI0075<HMC<CNP0309:0150:0002<ANP0309:0010:0002<QUA0030
+<MSG
+?!<NOD<CLO
+<WAI0010
+<ANP0300:0006:0002
+<ANP0301:0006:0000
+<WAI0100
+<ANP0300:0006:0002
+<WAI0080
+<DNP0300
+<CMU0009
+<FOM0016<SMC<DNP0309<END
+#0305
+<KEY<MSG<FAC0107
+Blast that Toroko...<FAC0007<NOD<FAC0107
+She ran off somewhere when
+you fell.<FAC0007<NOD<END
+#0306
+<KEY<MSG<FAC0107
+AAARGH!<FAC0007<NOD<CLR<FAC0107
+Toroko!!!<FAC0007<NOD<FAC0107
+You're not getting away
+that easily!<FAC0007<NOD<END
+#0307
+#0308
+<KEY<MYD0002<FAI0002<CMU0000<WAI0020
+<MSG<FAC0107
+Give me the key!<FAC0007<NOD<CLR<FAC1108
+No!<FAC1008<NOD<CLO
+<ANP0307:0006:0002<WAI0060
+<ANP0306:0006:0002<SOU0016<WAI0100<DNP0307<FL-0371<CMU0009<END
+#0309
+#0311
+<KEY<MSG
+*chomp chomp*<NOD<CLR
+!<NOD<CLO
+<MYB0000<ANP0311:0002:0004<WAI0030<MYD0000
+<FLJ0156:0313
+<FLJ0120:0312
+<FLJ0360:0314
+<MSG
+Geez, you scared me...<NOD<CLR
+Sue?<NOD
+Oh, right.<NOD<CLR
+The girl in Arthur's house, right?<NOD<CLR
+She's living with Toroko.<NOD<CLR
+Sweet girl, that.<NOD
+Says she's searching for a
+"Sky Dragon"...<NOD
+Dragons that soar the skies...
+Do those kinda things really
+exist?<NOD<ANP0311:0000:0002<END
+#0312
+<MSG
+Oh, it's you again.<NOD<CLR
+Sue's was brought up top.<NOD
+They say it's her fault Toroko
+got captured.<NOD<ANP0311:0000:0002<END
+#0313
+<KEY<MSG
+It sure sounds busy over at
+Arthur's house...<NOD<CLR
+Are they having a party or
+something?<NOD<ANP0311:0000:0002<END
+#0314
+<KEY<MSG
+HUH?<NOD<CLR
+Toroko's been kidnapped?<NOD<CLR
+Well, that's no good.<NOD
+Now the only girl left in the
+village is Sue...<NOD<ANP0311:0000:0002<END
+#0400
+<KEY<FL-0155<FON0400:0016<FAI0004<MNA<CMU0000<WAI0100<ANP0600:0011:0002
+<MSG<FAC1103
+Let me out this instant!<FAC1003<NOD<ANP0600:0000:0002<CLR<ANP0610:0000:0000<FAC0107
+Hold your tongue!<FAC0007<NOD<CLR<FAC0107
+YOU'RE the reason Toroko
+got kidnapped!<FAC0007<NOD<CLR<FAC0107
+One way or another, I'm 
+handing you over to them!<FAC0007<NOD<ANP0600:0011:0002<CLR<FAC1103
+You creep-eyed freak!<FAC1203<NOD<ANP0600:0000:0002<CLR<FAC0107
+If we don't get Toroko back
+safely, I swear I'll tear
+you apart limb from limb!<FAC0007<NOD<CLO<CMU0009
+<FOM0016<WAI0050<END
+#0410
+#0411
+#0420
+<KEY<HMC<CMU0000
+<CNP0410:0042:0002
+<CNP0411:0074:0000
+<ANP0610:0000:0000<WAI0100<MSG
+<FAC0107...We're weapons of death?<FAC0007<NOD<CMU0009<FAI0004<CLR<FAC1102
+That's right.<FAC1002<NOD<CLR<FAC1102
+The Doctor wants to use
+the red flowers to make
+you attack the humans.<FAC1002<NOD<CLR<FAC0109
+W--Why does he want
+to do that?!<FAC0009<NOD<CLR<FAC1102
+That man...
+...is a demon.<FAC1002<NOD<CLR<FAC0109
+And he's going to use
+those flowers on Toroko?<FAC0009<NOD<CLR<FAC1102
+As far as I can tell,
+he's still looking for
+them.<FAC1002<NOD<CLR<FAC1102
+We can only hope he
+doesn't find them.<FAC1002<NOD<CLR<FAC0109
+If...<FAC0009<NOD<CLR<FAC0109
+If he finds those
+flowers, Toroko...<FAC0009<NOD<CLR<FAC1102
+She would go wild...
+A weapon of death...<FAC1002<NOD<CLR<FAC0107
+I'll never allow that
+to happen!<FAC0007<NOD<CLO
+<FL-0154<FL+0157
+<FAO0004<TRA0001:0620:0008:0008
+#0500
+<KEY<MSG<TUR            Up: Yamashita Farm
+    Left: Reservoir   Right: Graveyard
+           Down: Arthur's House<NOD
+<END
+#0501
+<KEY<MSG<TUR
+              Yamashita Farm<NOD<END
+#0502
+<KEY<MSG<TUR
+                 Reservoir<NOD<END
+#0503
+<KEY<MSG<TUR
+             Mimiga Graveyard
+             Danger! No Entry<NOD<END
+#0504
+<KEY<MSG<TUR
+              Arthur's House<NOD<END
+#0505
+<KEY<MSG<TUR
+               Assembly Hall<NOD<END
+#0600
+<FLJ0224:0602
+<FLJ0325:0601
+<KEY<FL+0325<PS+0002:6002
+<MSG<FAC1101
+Yup, I'm stuck...<FAC1001<NOD<CLR<FAC1101
+The doctor's minions
+kidnapped a Mimiga,
+thinking she was me.<FAC1001<NOD<FAC1101
+Her name's Toroko,<FAC1001<NOD<FAC1101
+and when none of the
+other Mimigas would have
+anything to do with me,<FAC1001<NOD<FAC1101
+she alone was friendly
+and kind.<FAC1001<NOD<CLR<FAC1101
+.....<FAC1001<NOD<CLR<FAC1101
+I know.<FAC1001<NOD<CLR<FAC1101
+Why don't you go in
+my place?<FAC1001<NOD<CLR<FAC1101
+My brother's in a
+location called
+Grasstown.<FAC1001<NOD<FAC1101
+Find him and bring him
+here.<FAC1001<NOD<END
+#0601
+<KEY<MSG<FAC1101
+Find my brother and
+bring him here.<FAC1001<NOD<FAC1101
+You can get to Grasstown
+using the teleporter in
+Arthur's house.<FAC1001<NOD<END
+#0602
+<KEY<MSG<FAC1101
+Have you found my
+brother yet?<FAC1001<NOD<END
+#0610
+<FLJ0224:0611
+<KEY<MSG<FAC0107
+This is the fate of all
+who disturb the order of
+our village.<FAC0007<NOD<END
+#0611
+<KEY<MSG<FAC0107
+Still waiting...<FAC0007<NOD<END

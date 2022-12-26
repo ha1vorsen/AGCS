@@ -1,0 +1,115 @@
+
+#0090
+<MNA<CMU0014<FAI0000<END
+#0091
+<MNA<CMU0014<FAI0001<END
+#0092
+<MNA<CMU0014<FAI0002<END
+#0093
+<MNA<CMU0014<FAI0003<END
+#0094
+<FLJ0120:0095<ANP0200:0010:0002<EVE0095
+#0095
+<MNA<CMU0014<FAI0004<END
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0049:0094:0290:0008
+#0110
+<KEY<FLJ0940:0111<MSG
+You feel a cold wind
+blowing in...<NOD<END
+#0111
+<KEY<FAO0002<TRA0053:0092:0004:0165
+#0110
+#0400
+#0500
+<KEY<MSG
+Words light up the screen.<NOD<CLR
+<TUR>HATCH SUCCESSFUL<NOD<FLJ0941:0000<CLO
+<FL+0941
+<WAI0020<CMU0000<MSG
+Who's there?<MYD0002<NOD<CLO
+<WAI0050<CNP0400:0055:0000
+<WAI0010<ANP0400:0003:0000
+<WAI0048<ANP0400:0000:0000
+<CMU0014<MSG<FAC0110
+Oh, it's you.<FAC0010<NOD<CLR<FAC0110
+Glad to see you're
+all right.<FAC0010<NOD<FAC0110
+I'm the only one here.<FAC0010<NOD<CLR<FAC0110
+After you left for the
+Sand Zone, the rest of us hurried
+to secure a means of
+escape.<FAC0010<NOD<CLR<FAC0110
+That's when Misery showed
+up.<FAC0010<NOD<FAC0110
+Sue got taken off
+with her,<FAC0010<NOD<FAC0110
+and I haven't seen
+the professor...<FAC0010<NOD<CLR
+.....<NOD<CLR<FAC0110
+I gather, the Doctor
+was able to obtain
+the seeds.<FAC0010<NOD<CLR<FAC0110
+Oh,<FAC0010<NOD<FAC0110 no, no, I'm not blaming you...<FAC0010<NOD<ANP0400:0000:0002<FAC1110
+The Doctor's victory was
+assured from the moment
+he got his hands on that
+crown, really.<FAC1010<NOD<CLR<FAC1110
+It's only a matter of time
+before his army of wild
+Mimiga is complete...<FAC1010<NOD<CLR<FAC1110
+After that, I fear not
+even you could stop him.<FAC1010<NOD<CLO<FAC0000
+<WAI0010<ANP0400:0003:0002
+<WAI0016<ANP0400:0000:0002
+<MSG<FAC1110
+We've no choice but
+to flee...<FAC1010<NOD<CLR<FAC1110
+I figured we might be
+able to escape if only we
+had a Sky Dragon.<FAC1010<NOD<FAC1110
+...That's why I came here.<FAC1010<NOD<CLR<FAC1110
+And now, my dragon
+has hatched.<FAC1010<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000<WAI0100
+<MSG<FAC0110
+Would you like to escape
+with me?<FAC0010<YNJ0501<FL+0960<CLR<ANP0400:0000:0002<FAC1110
+Yes, there's no
+other way.<FAC1010<NOD<FAC1110
+We did what we could.<FAC1010<NOD<CLO
+<WAI0010<ANP0400:0003:0002
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940
+<END
+#0501
+<KEY<WAI0020<ANP0400:0000:0002
+<MSG<FAC1110
+I see...<FAC1010<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000
+<WAI0010<ANP0400:0005:0000
+<MSG<FAC0110
+Truth be told...<FAC0010<NOD<FAC0110 there's one
+other way one might
+return the Mimiga to
+their natural state.<FAC0010<NOD<CLR<FAC0110
+You could destroy the
+island's core.<FAC0010<NOD<FAC0110
+But if you did that, however,
+the island would most
+likely crumble.<FAC0010<NOD<FAC0110
+A dangerous choice, no?<FAC0010<NOD<WAI0050<ANP0400:0000:0000<CLR<FAC0110
+Well, either way, we don't even
+know where the core is...<FAC0010<NOD<CLR<FAC0110
+If you'd like to give
+it a try, I can wait.<FAC0010<NOD<CLR<FAC0110
+But remember, if the
+situation grows dire,<FAC0010<NOD<FAC0110
+I may have to leave
+without you...<FAC0010<NOD<CLO
+<WAI0010<ANP0400:0003:0002
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940
+<END
+
+#0502

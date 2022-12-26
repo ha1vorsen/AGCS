@@ -1,0 +1,95 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0011:0094:0043:0034
+#0200
+<FLJ0327:0201
+<KEY<MSG<FAC1107
+The key to Arthur's
+house...<FAC1007<NOD<FAC1107
+I thought there was at
+least one other one made.<FAC1007<NOD<CLR<FAC1107
+Blast you, Toroko,
+acting like you didn't
+know...<FAC1007<NOD<CLR<FAC1107
+Well, maybe Jack knows
+where to find it...<FAC1007<NOD<END
+#0201
+<KEY<MSG<FAC1107
+Toroko...<FAC1007<NOD<CLR<FAC1107
+I can't believe it... 
+Toroko's elder brother,
+Arthur, was a fabulous
+warrior.<FAC1007<NOD<CLR<FAC1107
+But he was killed by 
+one of the Doctor's
+goons.<FAC1007<NOD<FAC1107
+And now, I...I couldn't
+protect her...<FAC1007<NOD<END
+#0210
+<KEY<MSG<FAC0109
+There are two keys to
+Arthur's house.<FAC0009<NOD<FAC0109
+Toroko has one of them.<FAC0009<NOD<FAC0109
+The other is hidden in
+the Mimiga graveyard.<FAC0009<NOD<END
+#0220
+<KEY<MSG<FAC1109
+Toroko's brother Arthur
+fought against a horrific
+red monster...<FAC1009<NOD<CLR<FAC1109
+The terrible demon of this
+island that feasts on
+Mimigas.<FAC1009<NOD<CLR<FAC1109
+It's not the Doctor,
+it's... something else.<FAC1009<NOD<FAC1109
+That demon has lived on
+this island for ages.<FAC1009<NOD<CLR<FAC1109
+It came here to the
+village,<FAC1009<NOD<FAC1109
+but Arthur single-handedly
+drove it back.<FAC1009<NOD<FAC1109
+His gallant figure alone
+shielding our village
+from harm...<FAC1009<NOD<CLR<FAC1109
+I'll never forget it,<FAC1009<NOD<CLR<FAC1109
+as long as I live.<FAC1009<NOD<CLR<FAC1109
+He may have finally been
+killed by the Doctor,
+but he was a true hero.<FAC1009<NOD<END
+#0300
+<ITJ0008:0301
+<KEY<MSG
+*Crackle* *Snap!*<NOD<FLJ0442:0000<CLR
+You see something lying
+beyond the flames.<NOD<END
+#0301
+<KEY<GIT1008<MSG
+Do you want to use the
+=Jellyfish Juice=?<YNJ0000<CLO<GIT0000
+<IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
+<MSG
+You find something in the
+ashes...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010Got the =Bubbler=!<WAI0160<NOD<CLO<RMU<DNP0300<END
+#0302
+<KEY<DNP0300<END

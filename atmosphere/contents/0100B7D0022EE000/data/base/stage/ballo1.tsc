@@ -1,0 +1,80 @@
+
+#0090
+<MNA<CMU0000<FAI0000<END
+#0091
+<MNA<CMU0000<FAI0001<END
+#0092
+<MNA<CMU0000<FAI0002<END
+#0093
+<MNA<CMU0000<FAI0003<END
+#0094
+<MNA<CMU0000<FAI0004<END
+#0095
+<MNA<MYD0002<PRI
+<CMU0039<FAI0002<KEY
+<ANP0100:0000:0000<WAS<END
+
+#0400
+#0401
+#0402
+#0500
+<DNP0500<MYD0002
+<KEY<MSG
+Welcome.<NOD<CLR
+<FAC0129I am Ballos.<FAC0029<NOD<CLR<FAC0129
+Ages upon ages ago,
+in fear of enduring
+further punishment,<FAC0029<NOD<FAC0129 
+I allowed my magic to run wild...<FAC0029<NOD<CLR<FAC0129
+The magic became such that
+even its master's hands
+could not control it.<FAC0029<NOD<CLR<FAC0129
+As I looked on, unable
+to quell its fiery rage,<FAC0029<NOD<FAC0129
+it took from me my loved
+ones, my children,<FAC0029<NOD<FAC0129 my dearest wife...<FAC0029<NOD<CLR<FAC0129
+Their cries of agony 
+soared above the flames.<FAC0029<NOD<FAC0129
+I could not avert my
+eyes, so I merely gazed
+upon the spectacle...<FAC0029<NOD<FAC0129
+My eyes were affixed and I
+was unable to turn away from 
+the fiery horror...<FAC0029<NOD<FAC0129 
+Laughing...<FAC0029<NOD<CLR<FAC0129
+Jenka sealed me away,
+but my magic yet rages out
+of control even now.<FAC0029<NOD<CLR<FAC0129
+Long, long have I waited...<FAC0029<NOD<CLR<FAC0129
+Waited for the one who
+would finally subdue my
+magic's fury...<FAC0029<NOD<CLR<FAC0129
+Now, kill me!<FAC0029<NOD<FAC0129
+Or...<FAC0029<NOD<CLR<FAC0129
+I shall kill you!!<FAC0029<NOD<CLO<FAC0129
+<CMU0004
+<ANP0402:0100:0900<FON0402:0016
+<BSL0900<ANP0900:0010:0000<END
+#0900
+<ANP0900:1000:0005
+<FON0900:0016
+<CNP0400:0339:0002
+<CNP0401:0339:0000
+<CMU0000<WAI0300
+<FOM0016<WAI0050
+<BOA0100<WAI0200
+<ANP0402:0100:0000
+<FON0402:0016
+<BOA0200
+<CMU0007<BSL0000
+<END
+#1000
+<FLJ1600:1001
+<FL+1600
+<CMU0000<BOA0220<WAI0200
+<CMU0032<BOA0300<WAI0050
+<BOA0311<BSL0000<END
+#1001
+<KEY<FOB0000:0016
+<BOA1000<WAI0200
+<STC<TRA0091:0110:0003:0000

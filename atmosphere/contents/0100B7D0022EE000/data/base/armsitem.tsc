@@ -1,0 +1,547 @@
+#0000
+<FRE<WAI9999<END
+
+#1000
+<MSG<TUR
+No weapon.<WAI9999<END
+#1001
+<MSG<TUR- Snake -
+Penetrates through walls.
+Made by Chaba in the Labyrinth<WAI9999<END
+#1002
+<MSG<TUR- Polar Star -
+The most basic gun.
+It bears the mark of Polaris.
+<WAI9999<END
+#1003
+<MSG<TUR- Fireball -
+Bounces along the floor.
+Rather powerful on gentle slopes.<WAI9999<END
+#1004
+<MSG<TUR- Machine Gun -
+An automatic rapid-fire gun.
+Automatically recharges over time.<WAI9999<END
+#1005
+<MSG<TUR- Missile Launcher -
+Wide range and powerful damage.
+However, its ammunition is limited.<WAI9999<END
+#1007
+<MSG<TUR- Bubbler -
+From the Assembly Hall's fireplace.
+How you use it is up to you.<WAI9999<END
+#1009
+<MSG<TUR- Blade -
+A single-shot, high-damage weapon.
+King's soul dwells within.<WAI9999<END
+#1010
+<MSG<TUR- Super Missile -
+An exhilirating sort of missile.
+Its acceleration is unmatched.<WAI9999<END
+
+#1012
+<MSG<TUR- Nemesis -
+Lightning of the Goddess.
+Level 1 deals the most damage.<WAI9999<END
+#1013
+<MSG<TUR- Spur -
+Hold down the button to
+fire a laser.<WAI9999<END
+
+#1100
+<FLJ3001:1105
+<FLJ3002:1105
+<FLJ3003:1105
+<FLJ3004:1105
+<MSG<TUR
+Hajime<WAI9999<END
+#1101
+<FLJ3000:1105
+<FLJ3002:1105
+<FLJ3003:1105
+<FLJ3004:1105
+<MSG<TUR
+Mick<WAI9999<END
+#1102
+<FLJ3000:1105
+<FLJ3001:1105
+<FLJ3003:1105
+<FLJ3004:1105
+<MSG<TUR
+Shinobu<WAI9999<END
+#1103
+<FLJ3000:1105
+<FLJ3001:1105
+<FLJ3002:1105
+<FLJ3004:1105
+<MSG<TUR
+Kakeru<WAI9999<END
+#1104
+<FLJ3000:1105
+<FLJ3001:1105
+<FLJ3002:1105
+<FLJ3003:1105
+<MSG<TUR
+Nene<WAI9999<END
+
+#1105
+<MSG<TUR
+Puppies<WAI9999<END
+
+#1200
+<KE2
+<FLJ3001:1201
+<FLJ3002:1201
+<FLJ3003:1201
+<FLJ3004:1201
+<EVE1205
+#1201
+<MSG<TUR
+Hajime<NOD<EVE1205
+#1205
+<MSG<TURJenka's pet and leader of the dogs.
+While searching for his brothers, he
+got lost and was taken in by Curly.<NOD<FLJ3001:1250<FLJ3002:1250<FLJ3003:1250<FLJ3004:1250<FR2<WAI9999<END
+#1210
+<KE2
+<FLJ3000:1211
+<FLJ3002:1211
+<FLJ3003:1211
+<FLJ3004:1211
+<EVE1215
+#1211
+<MSG<TUR
+Mick<NOD<EVE1215
+#1215
+<MSG<TURJenka's pet. Loves treasure-hunting.
+Or treasure *chests*, rather, and
+recently has taken up sleeping in them.<NOD<FLJ3002:1260<FLJ3003:1260<FLJ3004:1260<FR2<WAI9999<END
+#1220
+<KE2
+<FLJ3000:1221
+<FLJ3001:1221
+<FLJ3003:1221
+<FLJ3004:1221
+<EVE1225
+#1221
+<MSG<TUR
+Shinobu<NOD<EVE1225
+#1225
+<MSG<TURJenka's pet. Loves dark places. Due
+to poor eyesight, he roams the darkness
+using his wild instincts alone.<NOD<FLJ3003:1270<FLJ3004:1270<FR2<WAI9999<END
+#1230
+<KE2
+<FLJ3000:1231
+<FLJ3001:1231
+<FLJ3002:1231
+<FLJ3004:1231
+<EVE1235
+#1231
+<MSG<TUR
+Kakeru<NOD<EVE1235
+#1235
+<MSG<TURJenka's pet. Adores bones and has
+buried them in countless places,
+most of which are by now forgotten.<NOD<FLJ3004:1280<FR2<WAI9999<END
+#1240
+<KE2
+<FLJ3000:1241
+<FLJ3001:1241
+<FLJ3002:1241
+<FLJ3003:1241
+<EVE1245
+#1241
+<MSG<TUR
+Nene<NOD<EVE1245
+#1245
+<MSG<TURJenka's pet. Spends most of her time
+asleep, but her dreams have been
+known to portend the future.<NOD<FR2<WAI9999<END
+
+Advance to the next dog's description:
+#1250
+<CLR<FLJ3001:1210<FLJ3002:1220<FLJ3003:1230<FLJ3004:1240
+#1260
+<CLR<FLJ3002:1220<FLJ3003:1230<FLJ3004:1240
+#1270
+<CLR<FLJ3003:1230<FLJ3004:1240
+#1280
+<CLR<FLJ3004:1240
+
+#5000
+<MSG<TUR
+No item.<WAI9999<END
+#5001
+<MSG<TUR
+Arthur's Key<WAI9999<END
+#5002
+<MSG<TUR
+Map System<WAI9999<END
+#5003
+<MSG<TUR
+Santa's Key<WAI9999<END
+#5004
+<MSG<TUR
+Silver Locket<WAI9999<END
+#5005
+<MSG<TUR
+Beast Fang<WAI9999<END
+#5006
+<MSG<TUR
+Life Capsule<WAI9999<END
+#5007
+<MSG<TUR
+ID Card<WAI9999<END
+#5008
+<MSG<TUR
+Jellyfish Juice<WAI9999<END
+#5009
+<MSG<TUR
+Rusty Key<WAI9999<END
+#5010
+<MSG<TUR
+Gum Key<WAI9999<END
+#5011
+<MSG<TUR
+Gum Base<WAI9999<END
+#5012
+<MSG<TUR
+Charcoal<WAI9999<END
+#5013
+<MSG<TUR
+Explosive<WAI9999<END
+#5014
+<FLJ3000:1100
+<FLJ3001:1101
+<FLJ3002:1102
+<FLJ3003:1103
+<FLJ3004:1104
+<MSG<TUR
+Puppy<WAI9999<END
+#5015
+<MSG<TUR
+Life Pot<WAI9999<END
+#5016
+<MSG<TUR
+Cure-All<WAI9999<END
+#5017
+<MSG<TUR
+Clinic Key<WAI9999<END
+#5018
+<MSG<TUR
+Booster v0.8<WAI9999<END
+#5019
+<MSG<TUR
+Arms Barrier<WAI9999<END
+#5020
+<MSG<TUR
+Turbocharge<WAI9999<END
+#5021
+<MSG<TUR
+Curly's Air Tank<WAI9999<END
+#5022
+<MSG<TUR
+Nikumaru Counter<WAI9999<END
+#5023
+<MSG<TUR
+Booster v2.0<WAI9999<END
+#5024
+<MSG<TUR
+Mimiga Mask<WAI9999<END
+#5025
+<MSG<TUR
+Teleporter Room Key<WAI9999<END
+#5026
+<MSG<TUR
+Sue's Letter<WAI9999<END
+#5027
+<MSG<TUR
+Controller<WAI9999<END
+#5028
+<MSG<TUR
+Broken Sprinkler<WAI9999<END
+#5029
+<MSG<TUR
+Sprinkler<WAI9999<END
+#5030
+<MSG<TUR
+Tow Rope<WAI9999<END
+#5031
+<MSG<TUR
+Medal of the Red Ogre<WAI9999<END
+#5032
+<MSG<TUR
+Little Man<WAI9999<END
+#5033
+<MSG<TUR
+Mushroom Badge<WAI9999<END
+#5034
+<MSG<TUR
+Ma Pignon<WAI9999<END
+#5035
+<MSG<TUR
+Curly's Panties<WAI9999<END
+#5036
+<MSG<TUR
+Alien Medal<WAI9999<END
+#5037
+<MSG<TUR
+Chako's Lipstick<WAI9999<END
+#5038
+<MSG<TUR
+Whimsical Star<WAI9999<END
+#5039
+<MSG<TUR
+Iron Bond<WAI9999<END
+
+#6000
+<MSG<TUR
+No item.<WAI9999<END
+#6001
+<MSG<TUR
+The key to Arthur's house.
+It was hidden near Arthur's
+gravestone.<WAI9999<END
+#6002
+<PRI<EVE7002<MPJ7002<MSG
+You'll never be lost again.<NOD<CLR<END
+#6003
+<MSG<TUR
+The key to Santa's house.<WAI9999<END
+#6004
+<MSG<TUR
+A silver locket in the shape of a fish.
+From the condition it's in, it looks
+like it's been treasured for years.<WAI9999<END
+#6005
+<MSG<TUR
+A sharp fang found at the 
+Yamashita Farm. Is its owner still 
+alive...?<WAI9999<END
+#6006
+<MSG<TUR
+A life capsule.<WAI9999<END
+#6007
+<MSG<TUR
+An ID Card found inside Egg No. 06.<WAI9999<END
+#6008
+<MSG<TUR
+A fluid that can quench
+fireplaces.<WAI9999<END
+#6009
+<MSG<TUR
+A rusty key.<WAI9999<END
+#6010
+<MSG<TUR
+A tag says "Gum".<WAI9999<END
+#6011
+<MSG<TUR
+A clump of gum.<WAI9999<END
+#6012
+<MSG<TUR
+Taken from a fireplace.<WAI9999<END
+#6013
+<MSG<TUR
+An explosive for blowing up doors
+and such.<WAI9999<END
+#6014
+<FLJ3000:1200
+<FLJ3001:1210
+<FLJ3002:1220
+<FLJ3003:1230
+<FLJ3004:1240
+<MSG<TUR
+Jenka's pet dog.<WAI9999<END
+#6015
+<KEY<MSG
+This will restore your life,
+but only once. Will you use it?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+Life restored.<FRE<WAI9999<END
+#6016
+<MSG<TUR
+Apparently this cures
+anything and everything...<WAI9999<END
+#6017
+<MSG<TUR
+It says "Labyrinth Clinic".<WAI9999<END
+#6018
+<FLJ0742:7018
+<KEY<MSG
+Push the jump button again in
+midair to fly even higher.<NOD<CLR
+Do you want to equip it?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
+Booster equipped.<NOD<WAI0003<FRE<EVE5018
+#6019
+<MSG<TUR
+When you take damage, the amount
+of weapon energy lost will be halved.<WAI9999<END
+#6020
+<MSG<TUR
+Increases the rate at which the
+machine gun replenishes ammo.<WAI9999<END
+#6021
+<MSG<TUR
+You can breathe underwater with
+this. Curly used to use it.<WAI9999<END
+#6022
+<MSG<TUR
+A fully automatic stopwatch.
+You can't see any buttons.<WAI9999<END
+#6023
+<FLJ0743:7023
+<KEY<MSG
+Push the jump button in midair and
+you can move in any direction.<NOD<CLR
+Do you want to equip it?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
+Equipped Booster v2.0.<NOD<WAI0003<FRE<EVE5023
+#6024
+<MSG<TUR
+A Mimiga mask Sue's mother made.
+It's a bit big...<WAI9999<END
+#6025
+<MSG<TUR
+A key fished out by a certain
+Mimiga.<WAI9999<END
+#6026
+<KEY<MSG
+Will you read it?<YNJ0000<MSG<TUR
+This is Sue.<NOD<CLR
+I don't believe I ever told
+you much about all of us.<NOD<CLR
+We came to this island from
+the surface on a research trip.<NOD<CLR
+Prof. Booster was on our
+helicopter, and so was my
+mother, my brother,<NOD<CLR
+various assistants...
+The Doctor as well.<NOD<CLR
+He was there to serve our
+medical needs, and did so...<NOD<CLR
+At least, until he found
+the Demon Crown...<WAI0020<NOD
+That crown, once the property
+of the master of this island,<NOD<CLR
+grants monstrous magical
+powers upon its wearer...<NOD<CLR
+The Doctor knew this even
+before coming to the island,<NOD<CLR
+which is why he wormed his
+way into our group in the
+first place.<NOD<CLR
+Once he had the Crown in
+his possession, no one could
+stand up to him.<NOD<CLR
+We had no choice except to
+continue our research of the
+island under his orders.<NOD<CLR
+The Doctor seeks to rule the
+Earth's surface using this
+island as a base.<NOD<CLR
+I think he plans to first
+attack the surface using
+the Mimigas as weapons.<NOD<CLR
+Anyway, I was able to get away
+somehow, but I fear the other
+researchers are already...<NOD<CLR
+Now, he's using the unsuspecting
+Mimiga to cultivate more and
+more red flowers.<NOD<CLR
+Now, he's using the unsuspecting
+Mimiga to cultivate more and
+more red flowers.<NOD
+Once he is ready to attack, he will
+drive the Mimigas into a murderous
+frenzy using the flowers.<NOD<CLR
+Using his terrible powers,
+he will be able to control the
+raging Mimigas to do his bidding.<NOD<CLR
+And that means I, too, will...<NOD<CLR
+If you can escape from this prison
+cell, look for the hideout hidden
+in the plantation.<NOD<CLR
+If my mother is yet safe,
+she'll be there, coming up
+with a counterplan.<NOD<CLR
+Please. Help my mother.<NOD<CLR
+The password is
+"Litagano Motscoud".<NOD<CLR<FL+1024<FRE<MSG
+The letter ends here...<WAI9999<END
+#6027
+<MSG<TUR
+Necessary to make a rocket.
+Pride of Itoh, the cowardly man.<WAI9999<END
+#6028
+<MSG<TUR
+A busted water sprinkler.<WAI9999<END
+#6029
+<MSG<TUR
+It's brand-new. ...Perhaps.<WAI9999<END
+#6030
+<MSG<TUR
+A tow rope for robots.<WAI9999<END
+#6031
+<MSG<TUR
+Small and profoundly heavy.
+It has no use.<WAI9999<END
+
+#6032
+<MSG<TUR
+Hey! We there yet?<WAI9999<END
+#6033
+<MSG<TUR
+The mushroom badge you got from the
+mushroom. It has no real use. To be
+honest, you don't really need it...<FL+1563<WAI9999<END
+#6034
+<MSG<TUR
+Allegedly, it has the power to
+restore memories...<WAI9999<END
+#6035
+<MSG<TUR
+Retrieved from behind the wall.
+Yellow-green panties with a cute
+little insignia. They have no use.<WAI9999<END
+#6036
+<MSG<TUR
+Engraved with the silhouette of an
+alien. It has no use. Ika...?<WAI9999<END
+#6037
+<MSG<TUR
+Red lipstick from Chako.
+It has no use.<WAI9999<END
+#6038
+<KEY<MSG
+A little trinket you got from
+Chaba in the labyrinth.
+A whimsical star.<NOD<FLJ0722:7038<CLR
+Will you equip it?<YNJ0000<EQ+0128<FL+0722<MSG
+Equipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5038
+#6039
+<MSG<TUR
+Your tie to Curly Brace, the only
+warrior you would trust your back to.
+Surely you will meet again one day...<WAI9999<END
+
+#7002
+<MLP<END
+
+#7018
+<KEY<MSG
+Do you want to remove it?<YNJ0000<EQ-0001<FL-0742<MSG
+Deequipped Booster.<NOD<WAI0003<FRE<EVE5018
+#7023
+<KEY<MSG
+Do you want to remove it?<YNJ0000<EQ-0032<FL-0743<MSG
+Deequipped Booster. v2.0.<NOD<WAI0003<FRE<EVE5023
+
+#7038
+<KEY<MSG
+Do you want to remove it?<YNJ0000<EQ-0128<FL-0722<MSG
+Deequipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5038
+
+>>>
+3000 Â¢ÌB
+3001
+3002
+3003
+3004

@@ -1,0 +1,93 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<KEY<FLJ1000:0095<MNA<CMU0008<FAI0004<EVE0200
+#0095
+<MNA<CMU0008<FAI0004<END
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0053:0094:0075:0005
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0000<TRA0056:0090:0118:0083
+#0200
+<KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
+<ANP0400:0010:0000<MSG
+Uwah!<NOD<CLO
+<ANP0400:0020:0000<WAI0050<END
+#0400
+<KEY
+<FLJ1003:0404
+<FLJ1102:0403
+<FLJ1002:0402
+<FLJ1001:0401<FL+1001<FL+1038
+<ANP0400:0010:0000
+<MSG
+Eyaahh!<MYB0002<NOD<CLR
+Don't kill me!<NOD
+I'm a human! I just got
+magically turned into
+a Mimiga!<NOD<CLR
+Huh?<NOD<CLR
+.....<NOD<CLR<ANP0400:0000:0000<FAC0128
+What's this?
+You're not one of those
+killer robots?<FAC0028<NOD<FAC0128
+Well, you scared the
+pants off me, jumping
+out like that!<FAC0028<NOD<CLR<FAC0128
+You wouldn't be that
+savior, would you?<FAC0028<NOD<END
+#0401
+<KEY<FL+1002
+<MSG<FAC0128
+I'm Itoh.
+I'm one of the humans who
+came to this
+island to do research.<FAC0028<NOD<FAC0128
+That witch Misery turned
+me into this...<FAC0028<NOD<FAC0128
+I managed to get away,
+but take a look at me and
+but...just look at me.<FAC0028<NOD<CLR<FAC0128
+I'm stuck here!<FAC0028<NOD<CLR<FAC0128
+You climbed all the way up
+from outside, didn't you.<FAC0028<NOD<FAC0128
+I'm an engineer of
+considerable talent,<FAC0028<NOD<FAC0128
+but I'm deathly afraid
+of heights...<FAC0028<NOD<CLR<FAC0128
+Oh, woe, woe is me...<FAC0028<NOD<CLR<FAC0128
+I never should've come
+to this island in the
+first place.<FAC0028<NOD<END
+#0402
+<KEY<MSG<FAC0128
+No, no, surely you have
+no use for such a pathetic,
+stranded little man.<FAC0028<NOD<END
+#0403
+<KEY<MSG<FL+1003<FAC0128
+Itoh?<FAC0028<NOD<FAC0128
+Yes, that's me.<FAC0028<NOD<CLR<FAC0128
+What's that?<FAC0028<NOD<FAC0128
+Sakamoto's working on
+a rocket?<FAC0028<NOD<CLR<FAC0128
+So she's still alive...<FAC0028<NOD<FAC0128
+A fierce one, she is.<FAC0028<NOD<FAC0128
+Nothing like me, that's
+for sure...<FAC0028<NOD<CLR<FAC0128
+All right, then.<FAC0028<NOD<FAC0128
+Take this.<FAC0028<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010Got the =Controller=.<WAI0160<NOD<RMU
+<CLR<FAC0128
+I think that's what
+she's after.<FAC0028<NOD<GIT0000<EVE0404
+#0404
+<KEY<MSG<FAC0128
+Give Ms. Sakamoto my
+regards.<FAC0028<NOD<END
